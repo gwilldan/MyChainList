@@ -4,11 +4,6 @@
     padding: 2rem 2rem 0 2rem;
     background-color: white;
     height: 260px;
-    border: 1px solid blue;
-}
-
-.ChainTiles > * {
-    border: 1px solid red;
 }
 
 .ChainTiles__name {
@@ -33,3 +28,30 @@
 .ChainTiles__ChainData-IDResult, .ChainTiles__ChainData-CurrencyResult {
     font-weight: bold;
 }
+
+.ChainTiles__Connect {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    gap: 1rem;
+}
+
+.ChainTiles__Connect-button1 {
+    padding: 1rem 1.3rem;
+    border: 0.2px solid var(--bg_harsh) ;
+    color: var(--bg_blue);
+    width: fit-content;
+    border-radius: 30px;
+    font-size: 100%;
+    background-color: inherit;
+}
+
+.ChainTiles__Connect-button2 {
+    background-color: inherit;
+    font-size: 100%;
+    border: none;
+    width: 100%;
+    font-weight: bold;
+}
+
