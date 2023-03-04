@@ -4,77 +4,60 @@ import "./ChainTiles.css";
 function ChainTiles(props) {
     return (
         <div className='ChainTiles'>
-            <div className='scroll_div'>
-                <p>“He vowed to deal with my father and members of his family. When my father told me, I told him not to cede any piece of land to anybody. As an only child, my father inherited many landed properties.
+            <div className=''>
+                <p>
+                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-    “In mysterious circumstances shortly after, I lost both my father and younger brother. While I am not saying this big man is responsible for their death, I had to leave for my dear life because I was afraid I could be the next to go. The man has taken over my father’s compound, having earlier demolished the family house.
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+                </p>
 
-    “I am currently in Europe because the man is probably searching for me to eliminate me,” he said.
+                <p>
+                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-    Ikenna noted that for now, his dream is to stay focused and earn a decent living in Europe, adding that in spite of the pain occasioned by the tragedy, justice will prevail at the appropriate time.</p>
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+                </p>
 
-    <p>“He vowed to deal with my father and members of his family. When my father told me, I told him not to cede any piece of land to anybody. As an only child, my father inherited many landed properties.
+                <p>
+                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-    “In mysterious circumstances shortly after, I lost both my father and younger brother. While I am not saying this big man is responsible for their death, I had to leave for my dear life because I was afraid I could be the next to go. The man has taken over my father’s compound, having earlier demolished the family house.
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+                </p>
 
-    “I am currently in Europe because the man is probably searching for me to eliminate me,” he said.
+                <p>
+                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-    Ikenna noted that for now, his dream is to stay focused and earn a decent living in Europe, adding that in spite of the pain occasioned by the tragedy, justice will prevail at the appropriate time.</p>
-    <p>“He vowed to deal with my father and members of his family. When my father told me, I told him not to cede any piece of land to anybody. As an only child, my father inherited many landed properties.
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+                </p>
 
-    “In mysterious circumstances shortly after, I lost both my father and younger brother. While I am not saying this big man is responsible for their death, I had to leave for my dear life because I was afraid I could be the next to go. The man has taken over my father’s compound, having earlier demolished the family house.
+                <p>
+                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-    “I am currently in Europe because the man is probably searching for me to eliminate me,” he said.
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+                </p>
 
-    Ikenna noted that for now, his dream is to stay focused and earn a decent living in Europe, adding that in spite of the pain occasioned by the tragedy, justice will prevail at the appropriate time.</p>
-    </div>
+                <p>
+                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-    <p>“He vowed to deal with my father and members of his family. When my father told me, I told him not to cede any piece of land to anybody. As an only child, my father inherited many landed properties.
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+                </p>
+                <p>
+                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-“In mysterious circumstances shortly after, I lost both my father and younger brother. While I am not saying this big man is responsible for their death, I had to leave for my dear life because I was afraid I could be the next to go. The man has taken over my father’s compound, having earlier demolished the family house.
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+                </p>
 
-“I am currently in Europe because the man is probably searching for me to eliminate me,” he said.
+                <p>
+                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-Ikenna noted that for now, his dream is to stay focused and earn a decent living in Europe, adding that in spite of the pain occasioned by the tragedy, justice will prevail at the appropriate time.</p>
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+                </p>
 
-<p>“He vowed to deal with my father and members of his family. When my father told me, I told him not to cede any piece of land to anybody. As an only child, my father inherited many landed properties.
+                <p>
+                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-“In mysterious circumstances shortly after, I lost both my father and younger brother. While I am not saying this big man is responsible for their death, I had to leave for my dear life because I was afraid I could be the next to go. The man has taken over my father’s compound, having earlier demolished the family house.
-
-“I am currently in Europe because the man is probably searching for me to eliminate me,” he said.
-
-Ikenna noted that for now, his dream is to stay focused and earn a decent living in Europe, adding that in spite of the pain occasioned by the tragedy, justice will prevail at the appropriate time.</p>
-<p>“He vowed to deal with my father and members of his family. When my father told me, I told him not to cede any piece of land to anybody. As an only child, my father inherited many landed properties.
-
-“In mysterious circumstances shortly after, I lost both my father and younger brother. While I am not saying this big man is responsible for their death, I had to leave for my dear life because I was afraid I could be the next to go. The man has taken over my father’s compound, having earlier demolished the family house.
-
-“I am currently in Europe because the man is probably searching for me to eliminate me,” he said.
-
-Ikenna noted that for now, his dream is to stay focused and earn a decent living in Europe, adding that in spite of the pain occasioned by the tragedy, justice will prevail at the appropriate time.</p>
-
-<p>“He vowed to deal with my father and members of his family. When my father told me, I told him not to cede any piece of land to anybody. As an only child, my father inherited many landed properties.
-
-    “In mysterious circumstances shortly after, I lost both my father and younger brother. While I am not saying this big man is responsible for their death, I had to leave for my dear life because I was afraid I could be the next to go. The man has taken over my father’s compound, having earlier demolished the family house.
-
-    “I am currently in Europe because the man is probably searching for me to eliminate me,” he said.
-
-    Ikenna noted that for now, his dream is to stay focused and earn a decent living in Europe, adding that in spite of the pain occasioned by the tragedy, justice will prevail at the appropriate time.</p>
-
-    <p>“He vowed to deal with my father and members of his family. When my father told me, I told him not to cede any piece of land to anybody. As an only child, my father inherited many landed properties.
-
-    “In mysterious circumstances shortly after, I lost both my father and younger brother. While I am not saying this big man is responsible for their death, I had to leave for my dear life because I was afraid I could be the next to go. The man has taken over my father’s compound, having earlier demolished the family house.
-
-    “I am currently in Europe because the man is probably searching for me to eliminate me,” he said.
-
-    Ikenna noted that for now, his dream is to stay focused and earn a decent living in Europe, adding that in spite of the pain occasioned by the tragedy, justice will prevail at the appropriate time.</p>
-    <p>“He vowed to deal with my father and members of his family. When my father told me, I told him not to cede any piece of land to anybody. As an only child, my father inherited many landed properties.
-
-    “In mysterious circumstances shortly after, I lost both my father and younger brother. While I am not saying this big man is responsible for their death, I had to leave for my dear life because I was afraid I could be the next to go. The man has taken over my father’s compound, having earlier demolished the family house.
-
-    “I am currently in Europe because the man is probably searching for me to eliminate me,” he said.
-
-    Ikenna noted that for now, his dream is to stay focused and earn a decent living in Europe, adding that in spite of the pain occasioned by the tragedy, justice will prevail at the appropriate time.</p>
-
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+                </p>
+            </div>
         </div>
     );
 }

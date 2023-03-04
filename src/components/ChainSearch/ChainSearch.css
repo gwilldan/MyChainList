@@ -10,7 +10,7 @@
 
 .ChainSearch__Search {
     padding: 1rem 1rem 1rem;
-    border-bottom: 1px solid var(--bg_harsh);
+    border-bottom: 2px solid var(--bg_harsh);
 }
 
 .ChainSearch__Search p {
@@ -25,10 +25,7 @@
     font-size: 1.1rem;
     margin-top: 0.6rem;
     font-weight: lighter;
-}
-
-.ChainSearch__Search input:focus {
-    outline: none;
+    padding: 0 0.4rem;
 }
 
 .ChainSearch__Checkbox {

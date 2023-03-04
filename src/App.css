@@ -4,10 +4,6 @@
   margin: 0;
 }
 
-.App__Scroll {
-  /* border: 2px solid black; */
-}
-
 .App__Scroll-Search {
   position: sticky;
   top: 0;
