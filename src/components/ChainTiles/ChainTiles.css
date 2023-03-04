@@ -1,4 +1,35 @@
+
 .ChainTiles {
-    margin: 1rem 0;
+    margin: 0 1rem 1.5rem;
+    padding: 2rem 2rem 0 2rem;
+    background-color: white;
+    height: 260px;
     border: 1px solid blue;
+}
+
+.ChainTiles > * {
+    border: 1px solid red;
+}
+
+.ChainTiles__name {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.ChainTiles__name-icon {
+    font-size: xx-large;
+}
+
+.ChainTiles__ChainData {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    row-gap: 0.5rem;
+}
+
+.ChainTiles__ChainData-IDResult, .ChainTiles__ChainData-CurrencyResult {
+    font-weight: bold;
 }

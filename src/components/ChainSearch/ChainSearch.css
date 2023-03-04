@@ -10,7 +10,7 @@
 
 .ChainSearch__Search {
     padding: 1rem 1rem 1rem;
-    border-bottom: 2px solid var(--bg_harsh);
+    border-bottom: 0.3px solid var(--bg_harsh);
 }
 
 .ChainSearch__Search p {
@@ -24,7 +24,7 @@
     width: 100%;
     font-size: 1.1rem;
     margin-top: 0.6rem;
-    font-weight: lighter;
+    font-weight: light;
     padding: 0 0.4rem;
 }
 
@@ -37,7 +37,7 @@
     background-color: rgb(208, 207, 207);
     padding: 0.6rem;
     margin: 0.5rem 1.25rem 0;
-    border-radius: 5px;
+    border-radius: 10px;
     border: none;
     font-size: 100%;
     font-weight: 500;

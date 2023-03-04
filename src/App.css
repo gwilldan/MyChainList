@@ -4,9 +4,17 @@
   margin: 0;
 }
 
+.App {
+  background: var(bg_brown);
+}
+
 .App__Scroll-Search {
   position: sticky;
   top: 0;
   padding: 1.25rem;
+  background-color: var(--bg_brown);
+}
+
+.App__Scroll {
   background-color: var(--bg_brown);
 }
