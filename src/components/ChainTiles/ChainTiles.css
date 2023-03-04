@@ -40,7 +40,7 @@
 }
 
 .ChainTiles__Connect-button1 {
-    padding: 1rem 1.3rem;
+    padding: 0.8rem 1.3rem;
     border: 0.2px solid var(--bg_harsh) ;
     color: var(--bg_blue);
     width: fit-content;
