@@ -1,11 +1,14 @@
 import './App.css';
-import {Hero, TilesContainer} from "./components/CompIndex";
+import {Hero, ChainTiles, ChainSearch} from "./components/CompIndex";
 
 function App() {
   return (
     <div className="App">
       <Hero />
-      <TilesContainer />
+      <div className='App__Scroll'>
+        <div className='App__Scroll-Search'><ChainSearch /></div>
+        <ChainTiles />
+      </div>
     </div>
   );
 }

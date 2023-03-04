@@ -12,7 +12,7 @@ function Hero(props) {
                 <h3>Chainlist is a list of EVM networks. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.</h3>
                 <button className='button   button1'>Add Your Network<FaPlus className='cross'/></button>
                 <button className='button button2'>Add Your RPC <FaPlus className='cross'/></button>
-                <a href = "#s" className='Hero__Container-git'><FaGithub className='gitIcon' /><h4>View Code</h4></a>
+                <a href = "https://github.com/gwilldan/MyChainList" target="blank" className='Hero__Container-git'><FaGithub className='gitIcon' /><h4>View Code</h4></a>
             </div>
         </div>
     );
