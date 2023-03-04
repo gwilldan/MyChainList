@@ -3,7 +3,9 @@
     margin: 0 1rem 1.5rem;
     padding: 2rem 2rem 0 2rem;
     background-color: white;
-    height: 260px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 0 3px 5px  rgba(54, 51, 51, 0.2); 
 }
 
 .ChainTiles__name {
