@@ -1,21 +1,76 @@
-.Hero, .Hero * {
-    border: 1px solid red;
-}
-
 .Hero {
     height: 100vh;
     width: 100vw;
-    overflow-x: hidden;
+    overflow-y: hidden;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
     justify-content: center;
     padding: 0 1rem;
+    background: var(--bg_white)
 }
 
 .Hero__Container {
-    border: 2px solid green;
     display: flex;
     flex-direction: column;
     max-width: 1400px;
+    justify-content: center;
 }
+
+.Hero__Container h2 {
+    margin: 1rem 0;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;;
+
+}
+.Hero__Container h3 {
+    margin: 1.5rem 0;
+    font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 500;
+}
+
+.button {
+    border: 0.5px solid rgb(195, 191, 191);
+    padding: 1.3rem;
+    display: flex;
+    justify-content: center;
+    width: 260px;
+    font-size: 1rem;
+    gap: 0.7rem;
+    border-radius: 30rem;
+    font-weight: 500;
+    background: inherit;
+    margin: 0.5rem auto;
+    color: var(--bg_blue);
+}
+
+.button1 {
+    background: var(--bg_blue);
+    color: white;
+    border: none;
+    box-shadow: 0 8px 15px rgba(195, 191, 191, 0.6);
+}
+
+.button2 {
+    margin-bottom: 2rem;
+}
+
+.Hero__Container-git {
+    display: flex;
+    justify-content: center;
+    gap: 0.7rem;
+    margin: auto;
+    line-height: 1.5rem;
+    text-decoration: none;
+    color: unset;
+    width: fit-content;
+}
+
+.gitIcon {
+    font-size: 1.5rem;
+    color: var(--bg_blue);
+}
+

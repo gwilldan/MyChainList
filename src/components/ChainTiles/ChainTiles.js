@@ -3,8 +3,8 @@ import "./ChainTiles.css";
 
 function ChainTiles(props) {
     return (
-        <div>
-            ChainTiles
+        <div className='ChainTiles'>
+            
         </div>
     );
 }
