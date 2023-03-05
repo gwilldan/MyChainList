@@ -8,6 +8,10 @@
   background: var(bg_brown);
 }
 
+button {
+  cursor: pointer;
+}
+
 .App__Scroll-Search {
   position: sticky;
   top: 0;
@@ -17,4 +21,20 @@
 
 .App__Scroll {
   background-color: var(--bg_brown);
+}
+
+@media (min-width: 1200px) {
+  
+  .App {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    height: 100vh;
+    overflow: auto;
+  }
+
+  .App__Scroll {
+    height: 100vh;
+    overflow: auto;
+  }
+
 }

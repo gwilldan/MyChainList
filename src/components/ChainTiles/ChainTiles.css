@@ -5,7 +5,7 @@
     background-color: white;
     height: 250px;
     border-radius: 10px;
-    box-shadow: 0 3px 5px  rgba(54, 51, 51, 0.2); 
+    box-shadow: var(--box_shadow);
 }
 
 .ChainTiles__name {
@@ -56,4 +56,5 @@
     width: 100%;
     font-weight: bold;
 }
+
 

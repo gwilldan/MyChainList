@@ -9,12 +9,28 @@
     background: white;
 }
 
+
 .Hero__Container {
     display: flex;
     flex-direction: column;
-    max-width: 1400px;
     justify-content: center;
+    max-width: 450px;
 }
+
+.svg {
+    width: 360px;
+}
+
+/* Responsive behaviour for screens widder than 1100px */
+
+/* Responsive behaviour for screens widder than 600px */
+
+@media (min-width: 600px) {
+   .Hero__Container {
+    align-self: center;
+   } 
+}
+
 
 .Hero__Container h2 {
     margin: 1rem 0;
@@ -74,3 +90,17 @@
     color: var(--bg_blue);
 }
 
+@media (min-width: 1100px) {
+    .Hero {
+        width: unset;
+    }
+    
+    .button {
+        margin: 0.5rem 0;
+    }
+
+    .Hero__Container-git {
+        margin: 1rem 0;
+    }
+
+}

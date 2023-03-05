@@ -1,6 +1,7 @@
 import React from 'react';
 import ChainArray from "../../Data/ChainArray"
-import ChainTiles from './ChainTiles';
+import ChainTiles from '../ChainTiles/ChainTiles';
+import "./ChainList.css"
 
 function ChainList(props) {
 
@@ -9,7 +10,7 @@ function ChainList(props) {
     });
 
     return (
-        <div>
+        <div className='ChainList'>
             {chainMap}
         </div>
     );

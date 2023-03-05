@@ -1,8 +1,10 @@
 :root {
 
-  --bg_brown: rgb(229, 231, 235);
+  --bg_brown: rgb(235, 238, 242);
   --bg_blue: rgb(47, 128, 237);
   --bg_harsh: rgb(208, 207, 207);
+  --box_shadow: 0 3px 3px  rgba(74, 72, 72, 0.2); 
+
   font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;;
 
   scroll-behavior: smooth;
@@ -10,4 +12,4 @@
 
 body {
   background-color: var(--bg_brown);
-}
+} 

@@ -1,0 +1,7 @@
+@media (min-width: 600px) {
+    .ChainList {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      column-gap: 0.5rem;
+    }
+}
