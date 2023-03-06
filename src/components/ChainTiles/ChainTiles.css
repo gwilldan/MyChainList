@@ -3,7 +3,7 @@
     margin: 0 1rem 1.5rem;
     padding: 2rem 2rem 0 2rem;
     background-color: white;
-    height: 250px;
+    height: 230px;
     border-radius: 10px;
     box-shadow: var(--box_shadow);
 }
@@ -36,7 +36,7 @@
     flex-direction: column;
     align-items: center;
     margin-top: 2rem;
-    gap: 1rem;
+    gap: 0.5rem;
 }
 
 .ChainTiles__Connect-button1 {
