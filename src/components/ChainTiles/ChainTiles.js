@@ -5,7 +5,6 @@ import { FiChevronDown } from 'react-icons/fi';
 
 function ChainTiles({id, currency, name}) {
 
-    
     return (
         <div className='ChainTiles'>
             <div className='ChainTiles__name'>

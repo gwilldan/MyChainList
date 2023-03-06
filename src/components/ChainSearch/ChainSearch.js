@@ -1,19 +1,19 @@
-import React, {useState} from 'react';
 import "./ChainSearch.css";
 import {ImSearch} from "react-icons/im"
 
 
-function ChainSearch(props) {
+function ChainSearch({chainData, addNewData}) {
 
-    const [search, addSearch] = useState("");
-
-    console.log(search);
+    const createFilter = (event) => {
+        const newMap = chainData.filter((i) => i.name.toLowerCase().includes(event.target.value.toLowerCase()));
+        addNewData(newMap);
+    }
 
     return (
         <div className='ChainSearch'>
             <div className='ChainSearch__Search'>
                 <p>Search Networks</p>
-                <input type="text" placeholder='ETH, Fantom, ...' onChange={(event) => addSearch(event.target.value)} />
+                <input onChange={createFilter} type="text" placeholder='ETH, Fantom, ...' />
                 <button className='imSearch'><ImSearch /></button>
             </div>
             <div className='ChainSearch_DownDIV'>

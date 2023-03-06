@@ -1,11 +1,10 @@
 import React from 'react';
-import ChainArray from "../../Data/ChainArray"
 import ChainTiles from '../ChainTiles/ChainTiles';
 import "./ChainList.css"
 
-function ChainList(props) {
+function ChainList({newData}) {
 
-    const chainMap = ChainArray.map((i) => {
+    const chainMap = newData.map((i) => {
        return (<ChainTiles id={i.chainID} currency = {i.currency} name={i.name}/>);
     });
 
